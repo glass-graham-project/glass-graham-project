@@ -54,6 +54,24 @@ span {
     justify-content: center;
 }
 
+
+.btn-1 {
+    background-color: #e5563a;
+}
+
+.btn-2 {
+    background-color: #eb9c39;
+}
+
+.btn-3 {
+    background-color: #7aae6b;
+}
+
+.btn-4 {
+    background-color: #00aaa9;
+}
+
+
 .d1-circle {
     background: #e5563a;
 
