@@ -20,6 +20,19 @@ span {
 /*    text-align: center;*/
 /*}*/
 
+.btn-circle.btn-xl {
+    width: 100px;
+    height: 100px;
+    padding: 10px 16px;
+    border-radius: 100%;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    border: 5px solid white;
+
+}
+
+
 .section-bottom {
     font-family: 'Roboto Condensed', sans-serif;
 
