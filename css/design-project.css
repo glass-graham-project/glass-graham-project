@@ -1,12 +1,19 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
 }
 
 body {
     background: #f0f0f0;
 }
+
+img {
+    min-width: 0px;
+    max-width: 300px;
+    object-fit: contain;
+}
+
+
 
 span {
     font-size: 10px;
@@ -93,4 +100,7 @@ span {
 
 
 }
+
+
+
 
